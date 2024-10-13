@@ -1,1 +1,3 @@
-English 
+streamlit
+language-tool-python
+groq
